@@ -1,0 +1,10 @@
+<h2>Proyectos Destacados</h2>
+<ul>
+  {% for proyecto in site.data.proyectos %}
+    <li>
+      <strong>{{ proyecto.nombre }}</strong>: {{ proyecto.descripcion }}<br>
+      Tecnologías: {{ proyecto.tecnologias | join: ", " }}<br>
+      <a href="{{ proyecto.enlace }}">Ver en GitHub</a>
+    </li>
+  {% endfor %}
+</ul>

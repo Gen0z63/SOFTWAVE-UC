@@ -1,0 +1,11 @@
+---
+title: Portafolio de Gen0z63
+email: tu-email@example.com
+description: >-
+  Portafolio profesional con integración de TDD y ORM basado en JSON.
+baseurl: "" # no modificar
+url: "https://gen0z63.github.io/SOFTWAVE-UC"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

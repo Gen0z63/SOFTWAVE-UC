@@ -10,5 +10,17 @@
     "descripcion": "Herramienta para análisis de datos financieros.",
     "tecnologias": ["R", "Shiny", "ggplot2"],
     "enlace": "https://github.com/Gen0z63/analizador-datos"
+  },
+  {
+    "nombre": "Plataforma de Cursos",
+    "descripcion": "Sitio educativo para gestión de contenidos.",
+    "tecnologias": ["JavaScript", "React", "Firebase"],
+    "enlace": "https://github.com/Gen0z63/plataforma-cursos"
+  },
+  {
+    "nombre": "Bot de Trading",
+    "descripcion": "Bot automático que opera en mercados financieros.",
+    "tecnologias": ["Python", "Pandas", "Binance API"],
+    "enlace": "https://github.com/Gen0z63/bot-trading"
   }
 ]

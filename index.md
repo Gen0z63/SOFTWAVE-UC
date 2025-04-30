@@ -14,7 +14,7 @@ Somos un equipo enfocado en el desarrollo de soluciones digitales. Aquí encontr
 <script>
   document.addEventListener("DOMContentLoaded", async () => {
     try {
-      const response = await fetch("{{ site.baseurl }}/assets/data/proyectos.json");
+      const response = await fetch("/SOFTWAVE-UC/assets/data/proyectos.json");
       const data = await response.json();
       const buscador = document.getElementById("buscador");
       const lista = document.getElementById("lista-filtrada");

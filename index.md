@@ -7,7 +7,6 @@ title: "Inicio"
 
 Somos un equipo enfocado en el desarrollo de soluciones digitales. Aquí encontrarás nuestros proyectos destacados, desarrollos bajo TDD y gestión de datos con ORM.
 
-{% include proyectos.html %}
 <h3>🔍 Buscar Proyecto</h3>
 <input type="text" id="buscador" placeholder="Buscar por nombre o tecnología..." style="width: 100%; max-width: 400px; padding: 8px; margin-bottom: 1rem;">
 <ul id="lista-filtrada"></ul>

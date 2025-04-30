@@ -1,1 +1,12 @@
-Contenido de ejemplo para _includes/proyectos.html
+<section class="proyectos">
+  <h2>Proyectos Destacados</h2>
+  <ul>
+    {% for proyecto in site.data.proyectos %}
+      <li>
+        <strong>{{ proyecto.nombre }}</strong>: {{ proyecto.descripcion }}<br>
+        <span class="tech">Tecnologías:</span> {{ proyecto.tecnologias | join: ", " }}<br>
+        <a class="btn" href="{{ proyecto.enlace }}" target="_blank">Ver en GitHub</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

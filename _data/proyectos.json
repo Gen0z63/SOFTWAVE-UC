@@ -1,1 +1,14 @@
-Contenido de ejemplo para _data/proyectos.json
+[
+  {
+    "nombre": "Sistema de Gestión",
+    "descripcion": "Aplicación web para la gestión de inventarios.",
+    "tecnologias": ["Python", "Django", "PostgreSQL"],
+    "enlace": "https://github.com/Gen0z63/sistema-gestion"
+  },
+  {
+    "nombre": "Analizador de Datos",
+    "descripcion": "Herramienta para análisis de datos financieros.",
+    "tecnologias": ["R", "Shiny", "ggplot2"],
+    "enlace": "https://github.com/Gen0z63/analizador-datos"
+  }
+]

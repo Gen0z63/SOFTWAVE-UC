@@ -3,8 +3,8 @@ layout: default
 title: "Inicio"
 ---
 
-# ¡Hola! Soy Gen0z63 👋
+# Bienvenido a SOFTWAVE-UC 🚀
 
-Bienvenido a mi portafolio profesional. Aquí encontrarás información sobre mis proyectos, habilidades y experiencia en desarrollo de software.
+Somos un equipo enfocado en el desarrollo de soluciones digitales. Aquí encontrarás nuestros proyectos destacados, desarrollos bajo TDD y gestión de datos con ORM.
 
 {% include proyectos.html %}

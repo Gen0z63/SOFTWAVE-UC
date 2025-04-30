@@ -1,4 +1,5 @@
 import json
+import os
 
 def test_proyectos_json():
     with open('_data/proyectos.json', 'r', encoding='utf-8') as f:

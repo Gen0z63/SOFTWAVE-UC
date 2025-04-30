@@ -4,6 +4,7 @@ Este es el portafolio profesional del equipo SOFTWAVE-UC, construido con Jekyll 
 
 ## NUESTRO PORTAFOLIO
 
+https://gen0z63.github.io/SOFTWAVE-UC/
 
 ## Ejecutar localmente
 

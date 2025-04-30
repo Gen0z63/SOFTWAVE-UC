@@ -1,1 +1,1 @@
-pytest
+Contenido de ejemplo para requirements.txt
